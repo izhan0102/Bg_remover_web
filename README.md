@@ -36,24 +36,8 @@ If you encounter issues with Python 3.13, use Python 3.10 instead:
 
 1. Install Python 3.10 from the [official website](https://www.python.org/downloads/release/python-31011/)
 
-2. Set up the virtual environment:
-   ```
-   setup_python310.bat
-   ```
 
-3. Run the server with the virtual environment:
-   ```
-   start_venv_server.bat
-   ```
 
-### Option 3: Simple Server (No Background Removal)
-
-If you just want to view the website without the background removal functionality:
-
-1. Run the simple server:
-   ```
-   start_simple_server.bat
-   ```
 
 ## How the Background Removal Works
 
@@ -93,7 +77,7 @@ To set up this project with Git:
 
 4. Add a remote repository (replace with your own repository URL):
    ```
-   git remote add origin https://github.com/yourusername/bg-remover-web.git
+   git remote add origin https://github.com/izhan0102/bg_remover_web.git
    ```
 
 5. Push to the remote repository:
@@ -103,7 +87,7 @@ To set up this project with Git:
 
 ## Created By
 
-Developed by Izhan, an 18-year-old first-year engineering student from Jammu Kashmir.
+Developed by Izhan, an 18-year-old student from Jammu Kashmir.
 
 ## Support This Project
 
